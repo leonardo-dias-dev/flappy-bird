@@ -1,6 +1,6 @@
 # flappy-bird
 
-O Projeto foi desenvolvido durante um curso. O jogo talvez mais conhecido, foi desenvolvido utilizando HTML, CSS e JavaScript.
+O Projeto foi desenvolvido durante um curso de JavaScript. O jogo talvez mais conhecido, foi desenvolvido utilizando HTML, CSS e JavaScript.
 
 ## Pré-requisitos
 
